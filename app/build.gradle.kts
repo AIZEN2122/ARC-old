@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.arc.training"
-    compileSdk = 37
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.arc.training"
         minSdk = 24
-        targetSdk = 37
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
     }
